@@ -1,23 +1,9 @@
 [
-	{
-		"id": "_ot300",
-		"template": {
-			"header": "New notification",
-			"body": "<div>Released!</div>"
-		}
-	},
-	{
-		"id": "_ot205",
-		"template": {
-			"header": "hello world 3",
-			"body": "<div>I am a notification</div>"
-		}
-	},
-	{
-		"id": "_ot204",
-		"template": {
-			"header": "New notification -- test",
-			"body": "<p>This is a new notification</p>"
-		}
-	}
+    {
+        "id": "_ot1",
+        "template": {
+            "header": "New release available!",
+            "body": "<div>The release 1.2.1 is now available. This release brings minor data and bug fixes.</div>"
+        }
+    }
 ]
