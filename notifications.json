@@ -4,6 +4,7 @@
         "template": {
             "header": "New release available!",
             "body": "<div>The release 1.2.1 is now available. This release brings minor data and bug fixes.</div>"
-        }
+        },
+        "expiry": "2016-10-04 12:00:00"
     }
 ]
