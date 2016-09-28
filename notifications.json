@@ -1,17 +1,23 @@
 [
-    {
-        "id": "_ot205",
-        "template": {
-            "header": "hello world 3",
-            "body": "<div>I am a notification</div>"
-        }
-    },
-    {
-        "id": "_ot204",
-        "template": {
-            "header": "New notification -- test",
-            "body": "<p>This is a new notification</p>"
-        },
-	"important": true
-    }
+	{
+		"id": "_ot300",
+		"template": {
+			"header": "New notification",
+			"body": "<div>Released!</div>"
+		}
+	},
+	{
+		"id": "_ot205",
+		"template": {
+			"header": "hello world 3",
+			"body": "<div>I am a notification</div>"
+		}
+	},
+	{
+		"id": "_ot204",
+		"template": {
+			"header": "New notification -- test",
+			"body": "<p>This is a new notification</p>"
+		}
+	}
 ]
