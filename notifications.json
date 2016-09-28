@@ -1,0 +1,17 @@
+[
+    {
+        "id": "_ot205",
+        "template": {
+            "header": "hello world 3",
+            "body": "<div>I am a notification</div>"
+        }
+    },
+    {
+        "id": "_ot204",
+        "template": {
+            "header": "New notification -- test",
+            "body": "<p>This is a new notification</p>"
+        },
+	"important": true
+    }
+]

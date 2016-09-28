@@ -1,0 +1,49 @@
+{
+    "sessions": [
+        {
+            "date": "2016-09-15",
+            "event": "Test event",
+            "place": "",
+            "external": {
+                "link": "",
+                "text": "test event"
+            }
+        },
+        {
+            "date": "2016-10-13",
+            "event": "Open Day",
+            "place": "European Bioinformatics Institute, UK",
+            "external" : {
+                "link": "http://embl-web.ungerboeck.com/logon/log_p2_addedit.aspx?AppSessionID=ej3fdneinfekfb5feoei4&sessionid=ejkfdmeilfeofbpfe4ejk&eventid=5474&mode=add",
+                "text": "book your place"
+            }
+        },
+        {
+            "date": "2016-10-17",
+            "event": "",
+            "place": "Cambridge University, UK",
+            "external" : {
+                "link": "http://marstons.bio.cam.ac.uk/course-booking/?CourseID=OpenTargets%20workshop_bioinfo-opent_17.10.2016_1830221&CourseName=OpenTargets%20workshop&CourseDate=17.10.2016&CourseDuration=0.5&EventID=1830221",
+                "text": "book your place"
+            }
+        },
+        {
+            "date": "2016-11-22",
+            "event": "",
+            "place": "Manchester Cancer Research UK",
+            "external" : {
+                "link": "",
+                "text": "invitation only"
+            }
+        },
+        {
+            "date": "2017-02-04",
+            "event": "",
+            "place": "Washington DC",
+            "external" : {
+                "link": "http://www.slas2017.org/",
+                "text": "SLAS 2017"
+            }
+        }
+    ]
+}
