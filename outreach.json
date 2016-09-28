@@ -46,6 +46,6 @@
             }
         }
     ],
-    "slidesUrl": "www.google.com",
-    "videoUrl": "www.youtube.com"
+    "slidesUrl": "https://www.google.com",
+    "videoUrl": "https://www.youtube.com"
 }
