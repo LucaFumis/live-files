@@ -44,6 +44,24 @@
                 "link": "http://www.slas2017.org/",
                 "text": "SLAS 2017"
             }
+        },
+        {
+            "date": "2017-03-08",
+            "event": "",
+            "place": "Hinxton UK",
+            "external" : {
+                "link": "http://www.ebi.ac.uk/training/events/2017/introduction-omics-data-integration",
+                "text": "Introduction to Omics data integration"
+            }
+        },
+      {
+            "date": "2017-03-16",
+            "event": "",
+            "place": "Hinxton UK",
+            "external" : {
+                "link": "http://www.ebi.ac.uk/training/events/2017/bioinformatics-discovery-0",
+                "text": "Bioinformatics for discovery"
+            }
         }
     ],
     "slidesUrl": "https://www.google.com",
