@@ -7,6 +7,10 @@
             "external": {
                 "link": "",
                 "text": "test event"
+            },
+            "materials": {
+                "link": "",
+                "text": "materials"
             }
         },
         {
@@ -16,7 +20,7 @@
             "external" : {
                 "link": "http://marstons.bio.cam.ac.uk/course-booking/?CourseID=OpenTargets%20workshop_bioinfo-opent_17.10.2016_1830221&CourseName=OpenTargets%20workshop&CourseDate=17.10.2016&CourseDuration=0.5&EventID=1830221",
                 "text": "book your place"
-        }
+            }
         },
         {
             "date": "2016-10-17",
