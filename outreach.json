@@ -8,22 +8,21 @@
                 "link": "",
                 "text": "test event"
             },
-            "materials": {
-                [
-                    {
-                        "link": "https://www.google.com",
-                        "label": "slides"
-                    },
-                    {
-                        "link": "https://www.google.com",
-                        "label": "exercises"
-                    },
-                    {
-                        "link": "https://www.google.com",
-                        "label":"answers"
-                    }
-                ]
-            }
+            "materials": [
+                {
+                    "link": "https://www.google.com",
+                    "label": "slides"
+                },
+                {
+                    "link": "https://www.google.com",
+                    "label": "exercises"
+                },
+                {
+                    "link": "https://www.google.com",
+                    "label":"answers"
+                }
+                
+            ]
         },
         {
             "date": "2016-10-13",
