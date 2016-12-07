@@ -51,6 +51,15 @@
             }
         },
         {
+            "date": "2016-12-16",
+            "event": "",
+            "place": "Cambridge Cancer Research UK",
+            "external" : {
+                "link": "",
+                "text": "invitation only"
+            }
+        },
+        {
             "date": "2017-02-04",
             "event": "",
             "place": "Washington DC",
