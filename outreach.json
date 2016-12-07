@@ -48,7 +48,21 @@
             "external" : {
                 "link": "",
                 "text": "invitation only"
-            }
+        },
+        "materials": [
+                {
+                    "link": "https://www.google.com",
+                    "label": "slides"
+                },
+                {
+                    "link": "https://www.google.com",
+                    "label": "exercises"
+                },
+                {
+                    "link": "https://www.google.com",
+                    "label":"answers"
+                }
+            ]
         },
         {
             "date": "2016-12-16",
