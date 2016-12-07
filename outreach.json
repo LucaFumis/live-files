@@ -1,29 +1,6 @@
 {
     "sessions": [
         {
-            "date": "2016-09-15",
-            "event": "Test event",
-            "place": "",
-            "external": {
-                "link": "",
-                "text": "test event"
-            },
-            "materials": [
-                {
-                    "link": "https://www.google.com",
-                    "label": "slides"
-                },
-                {
-                    "link": "https://www.google.com",
-                    "label": "exercises"
-                },
-                {
-                    "link": "https://www.google.com",
-                    "label":"answers"
-                }
-            ]
-        },
-        {
             "date": "2016-10-13",
             "event": "Open Day",
             "place": "EMBL-EBI, UK",
@@ -51,16 +28,16 @@
         },
         "materials": [
                 {
-                    "link": "https://www.google.com",
-                    "label": "slides"
+                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_presentation.pdf",
+                    "label": "presentation"
                 },
                 {
-                    "link": "https://www.google.com",
-                    "label": "exercises"
+                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_coursebook.pdf",
+                    "label": "coursebook"
                 },
                 {
-                    "link": "https://www.google.com",
-                    "label":"answers"
+                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_answerbook.pdf",
+                    "label":"answerbook"
                 }
             ]
         },
