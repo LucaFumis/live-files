@@ -28,16 +28,16 @@
         },
         "materials": [
                 {
-                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_presentation.pdf",
-                    "label": "presentation"
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_presentation.pdf",
+                    "label": "slides"
                 },
                 {
                     "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_coursebook.pdf",
-                    "label": "coursebook"
+                    "label": "exercises"
                 },
                 {
                     "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_answerbook.pdf",
-                    "label":"answerbook"
+                    "label":"answers"
                 }
             ]
         },
