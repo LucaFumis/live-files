@@ -12,7 +12,7 @@
         {
             "date": "2016-10-17",
             "event": "",
-            "place": "Cambridge University, UK",
+            "place": "University of Cambridge, UK",
             "external" : {
                 "link": "http://marstons.bio.cam.ac.uk/course-booking/?CourseID=OpenTargets%20workshop_bioinfo-opent_17.10.2016_1830221&CourseName=OpenTargets%20workshop&CourseDate=17.10.2016&CourseDuration=0.5&EventID=1830221",
                 "text": "book your place now"
@@ -21,7 +21,7 @@
         {
             "date": "2016-11-22",
             "event": "",
-            "place": "Manchester Cancer Research UK",
+            "place": "Cancer Research UK Manchester Institute, UK",
             "external" : {
                 "link": "",
                 "text": "invitation only"
@@ -44,25 +44,34 @@
         {
             "date": "2016-12-16",
             "event": "",
-            "place": "Cambridge Cancer Research UK",
+            "place": "Cancer Research UK Cambridge Institute, UK",
             "external" : {
                 "link": "http://www.training.cam.ac.uk/bioinformatics/event/1963140",
                 "text": "Book now"
             }
         },
         {
-            "date": "2017-02-04",
+            "date": "2017-02-06",
             "event": "",
-            "place": "Washington DC",
+            "place": "Washington DC, USA",
             "external" : {
                 "link": "http://www.slas2017.org/",
                 "text": "SLAS 2017"
             }
         },
         {
+            "date": "2017-02-09",
+            "event": "",
+            "place": "Yale School of Medicine New Haven, USA",
+            "external" : {
+                "link": "https://tools.medicine.yale.edu/calendar/",
+                "text": "Yale calendar"
+            }
+        },
+        {
             "date": "2017-03-08",
             "event": "",
-            "place": "Hinxton UK",
+            "place": "EMBL-EBI, UK",
             "external" : {
                 "link": "http://www.ebi.ac.uk/training/events/2017/introduction-omics-data-integration",
                 "text": "Introduction to Omics data integration"
@@ -71,7 +80,7 @@
       {
             "date": "2017-03-16",
             "event": "",
-            "place": "Hinxton UK",
+            "place": "EMBL-EBI, UK",
             "external" : {
                 "link": "http://www.ebi.ac.uk/training/events/2017/bioinformatics-discovery-0",
                 "text": "Bioinformatics for discovery"
