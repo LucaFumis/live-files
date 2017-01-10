@@ -48,7 +48,22 @@
             "external" : {
                 "link": "http://www.training.cam.ac.uk/bioinformatics/event/1963140",
                 "text": "Book now"
-            }
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_presentation.pdf",
+                    "label": "slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_coursebook.pdf",
+                    "label": "exercises"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_answerbook.pdf",
+                    "label":"answers"
+                }
+            ]
+
         },
         {
             "date": "2017-02-06",
