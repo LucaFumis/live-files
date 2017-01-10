@@ -28,15 +28,15 @@
         },
         "materials": [
                 {
-                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_presentation.pdf",
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_manchester_slides.pdf",
                     "label": "slides"
                 },
                 {
-                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_coursebook.pdf",
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_manchester_exercises.pdf",
                     "label": "exercises"
                 },
                 {
-                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_answerbook.pdf",
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_manchester_answers.pdf",
                     "label":"answers"
                 }
             ]
@@ -51,15 +51,15 @@
             },
             "materials": [
                 {
-                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_presentation.pdf",
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_slides.pdf",
                     "label": "slides"
                 },
                 {
-                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_coursebook.pdf",
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_exercises.pdf",
                     "label": "exercises"
                 },
                 {
-                    "link": "https://github.com/deniseOme/training/blob/master/OpenTargets_answerbook.pdf",
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_answers.pdf",
                     "label":"answers"
                 }
             ]
