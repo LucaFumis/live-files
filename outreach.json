@@ -97,6 +97,15 @@
                 "text": "Yale calendar"
             }
         },
+         {
+            "date": "2017-03-06",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "",
+                "text": "Invitation only"
+            }
+        },
         {
             "date": "2017-03-08",
             "event": "",
