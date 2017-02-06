@@ -86,7 +86,13 @@
             "external" : {
                 "link": "http://www.slas2017.org/",
                 "text": "SLAS 2017"
-            }
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/presentations/blob/master/SLAS2017.pdf",
+                    "label":"slides"
+                }
+            ]
         },
         {
             "date": "2017-02-09",
