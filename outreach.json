@@ -82,7 +82,7 @@
         {
             "date": "2017-02-06",
             "event": "",
-            "place": "Washington DC, USA",
+            "place": "Washington DC, US",
             "external" : {
                 "link": "http://www.slas2017.org/",
                 "text": "SLAS 2017"
@@ -97,7 +97,7 @@
         {
             "date": "2017-02-09",
             "event": "",
-            "place": "Yale School of Medicine New Haven, USA",
+            "place": "Yale School of Medicine New Haven, US",
             "external" : {
                 "link": "https://tools.medicine.yale.edu/calendar/",
                 "text": "Yale calendar"
