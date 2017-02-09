@@ -90,7 +90,7 @@
             "materials": [
                 {
                     "link": "https://github.com/deniseOme/presentations/blob/master/SLAS2017.pdf",
-                    "label":" SLAS2017 slides"
+                    "label":"SLAS2017 slides"
                 }
             ]
         },
@@ -101,7 +101,13 @@
             "external" : {
                 "link": "https://tools.medicine.yale.edu/calendar/",
                 "text": "Yale calendar"
-            }
+        },
+            "materials": [
+                {
+                    "link": "",
+                    "label":"cancelled due to winter storm Niko"
+                }
+            ]
         },
          {
             "date": "2017-03-06",
