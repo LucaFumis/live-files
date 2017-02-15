@@ -6,5 +6,13 @@
             "body": "<div>On the 9th of December we released a new version of the Open Targets Platform. Please take a look at our <a onclick='angular.element(this).scope().addCookie(\"_ot15122016-r\");' href='/release-notes'>release notes</a> for details</div>"
         },
         "expiry": "2017-01-10 12:00:00"
+    },
+    {
+        "id": "_test_1136",
+        "template": {
+            "header": "Test",
+            "body": "<div>Test</div>"
+        },
+        "expiry": "2017-10-10 12:00:00"
     }
 ]
