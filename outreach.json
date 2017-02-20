@@ -110,6 +110,15 @@
             ]
         },
          {
+            "date": "2017-02-23",
+            "event": "",
+            "place": "Webinar",
+            "external" : {
+                "link": "",
+                "text": "Yale Medican School and colleagues"
+            }
+        },
+         {
             "date": "2017-03-06",
             "event": "",
             "place": "EMBL-EBI, UK",
