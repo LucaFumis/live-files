@@ -135,6 +135,15 @@
                 "link": "http://www.ebi.ac.uk/training/events/2017/bioinformatics-discovery-0",
                 "text": "Bioinformatics for discovery"
             }
+        },
+        {
+            "date": "2017-06-27",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "http://www.ebi.ac.uk/training/events/2017/summer-school-bioinformatics-0",
+                "text": "Summer School in Bioinformatics"
+            }
         }
     ],
     "Getting started with the Open Targets Platform": "https://github.com/opentargets/outreach/blob/master/OpenTargets_Platform_GettingStarted.pdf",
