@@ -123,8 +123,8 @@
             "event": "",
             "place": "EMBL-EBI, UK",
             "external" : {
-                "link": "",
-                "text": "Industry programme"
+                "link": "http://www.ebi.ac.uk/industry",
+                "text": "Industry programme, members only"
             }
         },
         {
