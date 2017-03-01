@@ -116,7 +116,13 @@
             "external" : {
                 "link": "",
                 "text": "Yale School of Medicine and colleagues in the east coast of the US"
-            }
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/slides.pdf",
+                    "label": "slides"
+                }
+            ]
         },
          {
             "date": "2017-03-06",
