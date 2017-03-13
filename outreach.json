@@ -131,7 +131,13 @@
             "external" : {
                 "link": "http://www.ebi.ac.uk/industry",
                 "text": "Industry programme, members only"
-            }
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/IndustryProgram_Mar2017.pdf",
+                    "label": "slides"
+                }
+            ]
         },
         {
             "date": "2017-03-08",
@@ -140,6 +146,25 @@
             "external" : {
                 "link": "http://www.ebi.ac.uk/training/events/2017/introduction-omics-data-integration",
                 "text": "Introduction to Omics data integration"
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Omics_data_integration.pdf",
+                    "label":"slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Omics_data_integration_coursebook.pdf",
+                    "label": "exercises"
+                }
+            ]
+        },
+        {
+            "date": "2017-03-14",
+            "event": "",
+            "place": "Biogen Webinar",
+            "external" : {
+                "link": "",
+                "text": ""
             }
         },
       {
