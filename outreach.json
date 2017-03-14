@@ -165,7 +165,17 @@
             "external" : {
                 "link": "",
                 "text": ""
-            }
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Biogen_presentation.pdf",
+                    "label":"slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Biogen_exercises.pdf",
+                    "label": "exercises"
+                }
+            ]
         },
       {
             "date": "2017-03-16",
@@ -174,6 +184,15 @@
             "external" : {
                 "link": "http://www.ebi.ac.uk/training/events/2017/bioinformatics-discovery-0",
                 "text": "Bioinformatics for discovery"
+            }
+        },
+         {
+            "date": "2017-04-03",
+            "event": "",
+            "place": "Alzheimer's Research UK, Cambridge",
+            "external" : {
+                "link": "",
+                "text": ""
             }
         },
         {
