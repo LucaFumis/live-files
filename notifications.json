@@ -1,10 +1,10 @@
 [
     {
-        "id": "_ot15122016-r",
+        "id": "_ot29032016-1",
         "template": {
-            "header": "<h4>New version of the Open Targets Platform</h4>",
-            "body": "<div>On the 9th of December we released a new version of the Open Targets Platform. Please take a look at our <a onclick='angular.element(this).scope().addCookie(\"_ot15122016-r\");' href='/release-notes'>release notes</a> for details</div>"
+            "header": "<h4>The latest release of our Open Targets Platform is out.</h4>",
+            "body": "<div>On the 27th of March we released a new version of the Open Targets Platform data. Please take a look at our <a onclick='angular.element(this).scope().addCookie(\"_ot29032016-1\");' href='https://blog.opentargets.org/our-latest-release-is-out-its-all-about-data/'>blog post</a> for details</div>"
         },
-        "expiry": "2017-01-10 12:00:00"
+        "expiry": "2017-04-15 12:00:00"
     }
 ]
