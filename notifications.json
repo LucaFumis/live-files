@@ -11,7 +11,7 @@
         "id": "_ot31032016-1",
         "template": {
             "header": "<h4>New features released.</h4>",
-            "body": "<div>We are happy to announce that the Open Targets platform website now supports searching for multiple targets at once. Check the <a href='/batch-search'>loading page and try it out</a></div><div>Check the <a href='/release-notes'>release notes</a> for more details</div>"
+            "body": "<div>We are happy to announce that the Open Targets platform website now supports searching for multiple targets at once. Check the <a href='/batch-search'>loading page</a> and try it out</div><div>Check the <a href='/release-notes'>release notes</a> for more details</div>"
         },
         "expiry": "2017-04-30 12:00:00"
     }
