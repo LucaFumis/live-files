@@ -6,5 +6,13 @@
             "body": "<div>On the 27th of March we released a new version of the Open Targets Platform data. Please take a look at our <a onclick='angular.element(this).scope().addCookie(\"_ot29032016-1\");' href='https://blog.opentargets.org/our-latest-release-is-out-its-all-about-data/'>blog post</a> for details</div>"
         },
         "expiry": "2017-04-15 12:00:00"
+    },
+    {
+        "id": "_ot31032016-1",
+        "template": {
+            "header": "<h4>New features released.</h4>",
+            "body": "<div>We are happy to announce that the Open Targets platform website now supports searching for multiple targets at once. Check the <a href='/batch-search'>loading page and try it out</a></div><div>Check the <a href='/release-notes'>release notes</a> for more details</div>"
+        },
+        "expiry": "2017-04-30 12:00:00"
     }
 ]
