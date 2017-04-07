@@ -195,6 +195,42 @@
                 "text": ""
             }
         },
+         {
+            "date": "2017-04-06",
+            "event": "",
+            "place": "Universidad Icesi Webinar",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+        {
+            "date": "2017-04-07",
+            "event": "",
+            "place": "Universidad Icesi Webinar",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+        {
+            "date": "2017-04-26",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+        {
+            "date": "2017-05-10",
+            "event": "",
+            "place": "Drug Discovery Unit - University of Dundee, UK",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
         {
             "date": "2017-06-27",
             "event": "",
