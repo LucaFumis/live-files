@@ -265,16 +265,11 @@
                 }
             ]
         },
-        },
         {
             "date": "2017-05-30",
             "event": "",
-            "place": "Bristol-Myers Squibb, Webinar",
-            "external" : {
-                "link": "",
-                "text": ""
-            }
-        },
+            "place": "Bristol-Myers Squibb, Webinar"
+         },
         {
             "date": "2017-06-27",
             "event": "",
