@@ -198,7 +198,7 @@
          {
             "date": "2017-04-06",
             "event": "",
-            "place": "Universidad Icesi Webinar",
+            "place": "Universidad Icesi, Webinar",
             "external" : {
                 "link": "",
                 "text": ""
@@ -207,7 +207,7 @@
         {
             "date": "2017-04-07",
             "event": "",
-            "place": "Universidad Icesi Webinar",
+            "place": "Universidad Icesi, Webinar",
             "external" : {
                 "link": "",
                 "text": ""
@@ -226,6 +226,15 @@
             "date": "2017-05-10",
             "event": "",
             "place": "Drug Discovery Unit - University of Dundee, UK",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+        {
+            "date": "2017-05-30",
+            "event": "",
+            "place": "Bristol-Myers Squibb, Webinar",
             "external" : {
                 "link": "",
                 "text": ""
