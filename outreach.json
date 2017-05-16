@@ -184,16 +184,40 @@
             "external" : {
                 "link": "http://www.ebi.ac.uk/training/events/2017/bioinformatics-discovery-0",
                 "text": "Bioinformatics for discovery"
-            }
+          },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Day1_bio_discovery.pdf",
+                    "label":"slides Day 1"
+                },
+                 {
+                    "link": "https://github.com/deniseOme/training/blob/master/Day2_bio_discovery.pdf",
+                    "label":"slides Day 2"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/exercises.pdf",
+                    "label": "exercises"
+                }
+            ]
         },
          {
             "date": "2017-04-03",
             "event": "",
             "place": "Alzheimer's Research UK, Cambridge",
-            "external" : {
+             "external" : {
                 "link": "",
                 "text": ""
-            }
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/ARUK_presentation.pdf",
+                    "label":"slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/ARUK_coursebook.pdf",
+                    "label": "exercises"
+                }
+            ]
         },
          {
             "date": "2017-04-06",
