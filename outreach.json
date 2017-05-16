@@ -240,7 +240,7 @@
         {
             "date": "2017-04-26",
             "event": "",
-            "place": "Synapse Connect UK, EMBL-EBI, UK",
+            "place": "Synapse Connect UK, EMBL-EBI",
             "external" : {
                 "link": "",
                 "text": ""
@@ -253,7 +253,18 @@
             "external" : {
                 "link": "",
                 "text": ""
-            }
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/DDU_presentation.pdf",
+                    "label":"slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/DDU_coursebook.pdf",
+                    "label": "exercises"
+                }
+            ]
+        },
         },
         {
             "date": "2017-05-30",
