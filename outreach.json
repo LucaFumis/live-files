@@ -280,6 +280,23 @@
             "event": "",
             "place": "Biogen, Webinar"
          },
+        {
+            "date": "2017-06-27",
+            "event": "",
+            "place": "Summer School in Bioinformatics, EMBL-EBI",
+            "external" : {
+                "link": "http://www.ebi.ac.uk/training/events/2017/summer-school-bioinformatics-0",
+                "text": "Book now"
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/presentations/blob/master/Bioinf_Summer_School_17.pdf",
+                    "label": "slides"
+                }
+            ]
+
+        },
+
          {
             "date": "2017-07-07",
             "event": "",
