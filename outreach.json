@@ -203,7 +203,7 @@
          {
             "date": "2017-04-03",
             "event": "",
-            "place": "Alzheimer's Research UK, Cambridge",
+            "place": "Alzheimer's Research UK, DDI Cambridge",
              "external" : {
                 "link": "",
                 "text": ""
@@ -296,12 +296,49 @@
             ]
 
         },
-
          {
             "date": "2017-07-07",
             "event": "",
             "place": "LEO Pharma, Webinar"
             },
+        {
+            "date": "2017-07-18",
+            "event": "",
+            "place": "APerdana University, Malaysia",
+             "external" : {
+                "link": "",
+                "text": ""
+            },
+            "materials": [
+                {
+                    "link": "",
+                    "label":"slides"
+                },
+                {
+                    "link": "",
+                    "label": "exercises"
+                }
+            ]
+        },
+         {
+            "date": "2017-07-19",
+            "event": "",
+            "place": "Alzheimer's Research UK, DDI London",
+             "external" : {
+                "link": "",
+                "text": ""
+            },
+            "materials": [
+                {
+                    "link": "",
+                    "label":"slides"
+                },
+                {
+                    "link": "",
+                    "label": "exercises"
+                }
+            ]
+        },
             {
             "date": "2017-07-24",
             "event": "",
