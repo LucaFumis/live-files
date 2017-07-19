@@ -330,12 +330,8 @@
             },
             "materials": [
                 {
-                    "link": "",
+                    "link": "https://github.com/deniseOme/training/blob/master/ARUK_UCL_presentation.pdf",
                     "label":"slides"
-                },
-                {
-                    "link": "",
-                    "label": "exercises"
                 }
             ]
         },
