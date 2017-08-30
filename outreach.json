@@ -339,6 +339,11 @@
             "date": "2017-07-24",
             "event": "",
             "place": "Abbvie, Webinar"
+     },
+        {
+            "date": "2017-07-24",
+            "event": "",
+            "place": "EU project C-COMEND, Webinar"
      }
     ],
     "Get started with the Open Targets Platform": "https://github.com/opentargets/outreach/blob/master/OpenTargets_Platform_GettingStarted.pdf",
