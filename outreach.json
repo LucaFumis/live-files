@@ -341,9 +341,12 @@
             "place": "Abbvie, Webinar"
      },
         {
-            "date": "2017-07-24",
+            "date": "2017-10-10",
             "event": "",
             "place": "EU project C-COMEND, Webinar"
+            "external" : {
+                "link": "http://www.ecrin.org/event/free-c-comend-course-translational-research-and-medicine-development",
+                "text": ""
      }
     ],
     "Get started with the Open Targets Platform": "https://github.com/opentargets/outreach/blob/master/OpenTargets_Platform_GettingStarted.pdf",
