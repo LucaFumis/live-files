@@ -344,6 +344,16 @@
             "date": "2017-10-10",
             "event": "",
             "place": "EU project C-COMEND, Webinar"
+    },
+        {
+            "date": "2017-10-18",
+            "event": "",
+            "place": "EMBL-EBI Webinar Series"
+    },
+        {
+            "date": "2017-10-23",
+            "event": "",
+            "place": "Alzheimer's Research UK, DDI Oxford"
     }
     ],
     "Get started with the Open Targets Platform": "https://github.com/opentargets/outreach/blob/master/OpenTargets_Platform_GettingStarted.pdf",
