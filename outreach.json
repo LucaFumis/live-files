@@ -10,6 +10,15 @@
             }
         },
         {
+            "date": "2018-02-22",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "https://www.ebi.ac.uk/training/events/2018/introduction-multiomics-data-integration-0",
+                "text": "Introduction to multiomics data integration"
+            }
+        },
+        {
             "date": "2016-10-17",
             "event": "",
             "place": "University of Cambridge, UK",
