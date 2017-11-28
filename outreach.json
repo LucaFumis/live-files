@@ -367,7 +367,7 @@
          {
             "date": "2017-11-30",
             "event": "",
-            "place": "Biogen, Organoids Webinar"
+            "place": "Biogen, Webinar"
 },
          {
             "date": "2017-12-05",
@@ -377,7 +377,11 @@
          {
             "date": "2017-12-05",
             "event": "",
-            "place": "EMBL-EBI, Webinar"
+            "place": "EMBL-EBI, Webinar",
+            "external" : {
+                "link": "https://www.ebi.ac.uk/training/events/2017/embl-ebi-programmatically-take-rest-manual-searching-open-targets",
+                "text": "Take a REST with the Open Targets API"
+          }
     },
         {
             "date": "2017-10-23",
