@@ -19,6 +19,24 @@
             }
         },
         {
+            "date": "2018-02-27",
+            "event": "",
+            "place": "Biogen, Webinar",
+            "external" : {
+                "link": "",
+                "text": "Introduction to multiomics data integration"
+            }
+        },
+         {
+            "date": "2018-03-19",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "https://www.ebi.ac.uk/training/events/2018/bioinformatics-discovery-1",
+                "text": "Bioinformatics for Discovery, 2-day course"
+            }
+        },
+        {
             "date": "2016-10-17",
             "event": "",
             "place": "University of Cambridge, UK",
