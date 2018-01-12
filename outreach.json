@@ -377,10 +377,20 @@
             "event": "",
             "place": "EMBL-EBI Webinar Series",
             "external" : {
-                "link": "https://www.youtube.com/watch?v=vH2-8B7JqXE",
-                "text": "Take a REST from manual searches with the Open Targets API"
-          }
-    },
+                "link": "",
+                "text": ""
+                 },
+            "materials": [
+                {
+                    "link": "https://www.youtube.com/watch?v=vH2-8B7JqXE",
+                    "label":"Take a REST from manual searches with the Open Targets API"
+                },
+                {
+                    "link": "",
+                    "label": ""
+                }
+            ]
+        },
          {
             "date": "2017-10-19",
             "event": "",
