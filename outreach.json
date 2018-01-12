@@ -383,11 +383,7 @@
             "materials": [
                 {
                     "link": "https://www.youtube.com/watch?v=vH2-8B7JqXE",
-                    "label":"Open Targets: Mining gene and disease associations for improved drug target identification"
-                },
-                {
-                    "link": "",
-                    "label": ""
+                    "label": "Open Targets: Mining gene and disease associations for improved drug target identification"
                 }
             ]
         },
@@ -417,16 +413,11 @@
             "external" : {
                 "link": "",
                 "text": ""
-          }
     },
         "materials": [
                 {
                     "link": "https://www.youtube.com/watch?v=KQbfhwpeEvc",
                     "label":"Take a REST from manual searches with the Open Targets API"
-                },
-                {
-                    "link": "",
-                    "label": ""
                 }
             ]
         },
