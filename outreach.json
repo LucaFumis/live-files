@@ -372,10 +372,14 @@
             "event": "",
             "place": "EU project C-COMEND, Webinar"
     },
-        {
+         {
             "date": "2017-10-18",
             "event": "",
-            "place": "EMBL-EBI Webinar Series"
+            "place": "EMBL-EBI Webinar Series",
+            "external" : {
+                "link": "https://www.youtube.com/watch?v=vH2-8B7JqXE",
+                "text": "Take a REST from manual searches with the Open Targets API"
+          }
     },
          {
             "date": "2017-10-19",
@@ -401,8 +405,8 @@
             "event": "",
             "place": "EMBL-EBI, Webinar",
             "external" : {
-                "link": "https://www.ebi.ac.uk/training/events/2017/embl-ebi-programmatically-take-rest-manual-searching-open-targets",
-                "text": "Take a REST with the Open Targets API"
+                "link": "https://www.youtube.com/watch?v=KQbfhwpeEvc",
+                "text": "Take a REST from manual searches with the Open Targets API"
           }
     },
         {
