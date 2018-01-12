@@ -383,7 +383,7 @@
             "materials": [
                 {
                     "link": "https://www.youtube.com/watch?v=vH2-8B7JqXE",
-                    "label":"Take a REST from manual searches with the Open Targets API"
+                    "label":"Open Targets: Mining gene and disease associations for improved drug target identification"
                 },
                 {
                     "link": "",
@@ -415,10 +415,21 @@
             "event": "",
             "place": "EMBL-EBI, Webinar",
             "external" : {
-                "link": "https://www.youtube.com/watch?v=KQbfhwpeEvc",
-                "text": "Take a REST from manual searches with the Open Targets API"
+                "link": "",
+                "text": ""
           }
     },
+        "materials": [
+                {
+                    "link": "https://www.youtube.com/watch?v=KQbfhwpeEvc",
+                    "label":"Take a REST from manual searches with the Open Targets API"
+                },
+                {
+                    "link": "",
+                    "label": ""
+                }
+            ]
+        },
         {
             "date": "2017-10-23",
             "event": "",
