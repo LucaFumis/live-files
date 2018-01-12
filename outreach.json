@@ -24,7 +24,7 @@
             "place": "Biogen, Webinar",
             "external" : {
                 "link": "",
-                "text": "Introduction to multiomics data integration"
+                "text": "CRISPR screens in Parkinson’s disease"
             }
         },
          {
@@ -385,8 +385,12 @@
          {
             "date": "2017-11-30",
             "event": "",
-            "place": "Biogen, Webinar"
-},
+            "place": "Biogen, Webinar",
+            "external" : {
+                "link": "",
+                "text": "Organoids in Open Targets: pre-clinical models for drug discovery"
+            }
+        },
          {
             "date": "2017-12-05",
             "event": "",
