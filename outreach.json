@@ -383,7 +383,7 @@
             "materials": [
                 {
                     "link": "https://www.youtube.com/watch?v=vH2-8B7JqXE",
-                    "label": "Open Targets: Mining gene and disease associations for drug discovery"
+                    "label": "Open Targets: target and disease associations for drug discovery"
                 }
             ]
         },
@@ -417,7 +417,7 @@
         "materials": [
                 {
                     "link": "https://www.youtube.com/watch?v=KQbfhwpeEvc",
-                    "label":"Take a REST the Open Targets API"
+                    "label":"Take a REST with the Open Targets API"
                 }
             ]
         },
