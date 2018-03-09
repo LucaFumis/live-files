@@ -27,8 +27,35 @@
                 "text": "CRISPR screens in Parkinson’s disease"
             }
         },
-         {
+{
             "date": "2018-03-19",
+            "event": "",
+            "place": "Takeda - Boston, US",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+{
+            "date": "2018-03-21",
+            "event": "",
+            "place": "Biogen - Boston, US",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+{
+            "date": "2018-03-16",
+            "event": "",
+            "place": "Takeda - San Diego, US",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+         {
+            "date": "2018-03-20",
             "event": "",
             "place": "EMBL-EBI, UK",
             "external" : {
