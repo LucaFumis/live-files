@@ -36,6 +36,16 @@
                 "text": ""
             }
         },
+
+{
+            "date": "2018-03-12",
+            "event": "",
+            "place": "BioData West - San Francisco, US",
+            "external" : {
+                "link": "http://www.terrapinn.com/conference/biodata-west/Pre-Conference-Workshop-Agenda.stm",
+                "text": "Datathon on Open Targets"
+            }
+        },
 {
             "date": "2018-03-21",
             "event": "",
