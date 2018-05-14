@@ -1,5 +1,13 @@
 [
     {
+        "id": "_ot052018-3.6",
+        "template": {
+            "header": "<h4>The latest release of our Open Targets Platform is out.</h4>",
+            "body": "<div>On the 14th of May we released a new version of the Open Targets Platform. Please take a look at our <a onclick='angular.element(this).scope().addCookie(\"_ot052018-3.6\");' href='http://blog.opentargets.org/tag/release-notes/'>blog post</a> for details</div>"
+        },
+        "expiry": "2018-05-24 12:00:00"
+    },
+    {
         "id": "_ot06122017-1",
         "template": {
             "header": "<h4>The latest release of our Open Targets Platform is out.</h4>",
