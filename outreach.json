@@ -11,7 +11,8 @@
         },
 	    {
 		"date": "2018-10-18",
-		    "duration": "P1DT4H",
+		 "duration": "P1DT4H",
+		 "description": "Using genetics to find new drugs",
 	   	"event": "",
 	        "place": "San Diego, US",
 	        
