@@ -27,6 +27,24 @@
 			}
 		]
 	},
+	     {
+		"date": "2018-06-25",
+		"event": "Summer School in Bioinformatics",
+		"place": "EMBL-EBI, Hinxton, UK",
+		"external": {
+			"link": "https://www.ebi.ac.uk/training/events/2018/summer-school-bioinformatics-1",
+			"text": "Proteomics (data analysis and functional interpretation)"
+		},
+		"materials": [{
+				"link": "",
+				"label": ""
+			},
+			{
+				"link": "",
+				"label": ""
+			}
+		]
+	},
         {
             "date": "2018-02-22",
             "event": "",
