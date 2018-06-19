@@ -228,7 +228,7 @@
             "materials": [
                 {
                     "link": "https://www.youtube.com/watch?v=Fc3li7Z_Bdg",
-                    "label":"recorded talk"
+                    "label":"Recorded talk"
                 }
             ]
         },
@@ -499,7 +499,7 @@
             "materials": [
                 {
                     "link": "https://www.youtube.com/watch?v=vH2-8B7JqXE",
-                    "label": "Open Targets: target and disease associations for drug discovery"
+                    "label": "Recorded webinar"
                 }
             ]
         },
@@ -514,7 +514,7 @@
             "place": "Biogen, Webinar",
             "external" : {
                 "link": "",
-                "text": "Organoids in Open Targets: pre-clinical models for drug discovery"
+                "text": "Organoids in Open Targets"
             }
         },
          {
@@ -533,7 +533,7 @@
         "materials": [
                 {
                     "link": "https://www.youtube.com/watch?v=KQbfhwpeEvc",
-                    "label":"Take a REST with the Open Targets API"
+                    "label":"Recorded webinar"
                 }
             ]
         },
