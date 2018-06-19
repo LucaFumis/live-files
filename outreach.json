@@ -76,6 +76,19 @@
 			"label": "Extracting gene-disease evidence from literature, genetics, genomics and more"
 		}]
 	},
+	{
+		"date": "2018-12-06",
+		"event": "Interactive Workshop",
+		"place": "UCL, London, UK",
+		"external": {
+			"link": "",
+			"text": ""
+		},
+		"materials": [{
+			"link": "",
+			"label": ""
+		}]
+	},
         {
             "date": "2018-03-06",
             "event": "Biogen, Webinar",
