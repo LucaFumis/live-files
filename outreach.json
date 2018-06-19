@@ -19,6 +19,19 @@
             }
         },
         {
+		"date": "2018-06-07",
+		"event": "",
+		"place": "EMBL-EBI, Webinar",
+		"external": {
+			"link": "",
+			"text": ""
+		},
+		"materials": [{
+			"link": "https://youtu.be/g2NiBw0I7NE?t=1m2s",
+			"label": "Extracting gene-disease evidence from literature, genetics, genomics and more"
+		}]
+	},
+        {
             "date": "2018-03-06",
             "event": "",
             "place": "Biogen, Webinar",
