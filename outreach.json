@@ -2,20 +2,21 @@
     "sessions": [
         {
             "date": "2016-10-13",
-            "event": "Open Day",
+	    "event": "",
             "place": "EMBL-EBI, Hinxton, UK",
             "external" : {
-                "link": "http://marstons.bio.cam.ac.uk/course-booking/?CourseID=OpenTargets%20workshop_bioinfo-opent_17.10.2016_1830221&CourseName=OpenTargets%20workshop&CourseDate=17.10.2016&CourseDuration=0.5&EventID=1830221",
-                "text": "book your place"
+                "link": "https://www.ebi.ac.uk/about/events/2016/embl-ebi-open-day-2016",
+                "text": "Open Day"
             }
         },
 	    {
 		"date": "2018-10-18",
-		"event": "ASHG 2018 Interactive Invited Workshop",
-		"place": "San Diego, US",
+	   	"event": "",
+	        "place": "San Diego, US",
+	        "duration": "P1DT4H",
 		"external": {
 			"link": "http://www.ashg.org/2018meeting/asp/soe/webroot/soe.shtml#?search=Open%20Targets",
-			"text": "Open Targets: Using Genetics and Functional Genomics to Identify and Prioritise Targets for New Medicines"
+			"text": "Workshop at ASHG"
 		},
 		"materials": [{
 				"link": "",
@@ -29,11 +30,11 @@
 	},
 	     {
 		"date": "2018-06-25",
-		"event": "Summer School in Bioinformatics",
-		"place": "EMBL-EBI, Hinxton, UK",
+		"event": "",
+		"place": "EMBL-EBI, UK",
 		"external": {
 			"link": "https://www.ebi.ac.uk/training/events/2018/summer-school-bioinformatics-1",
-			"text": "Proteomics (data analysis and functional interpretation)"
+			"text": "Cancer proteomics"
 		},
 		"materials": [{
 				"link": "",
@@ -48,7 +49,7 @@
         {
             "date": "2018-02-22",
             "event": "",
-            "place": "EMBL-EBI, Hinxton, UK",
+            "place": "EMBL-EBI, UK",
             "external" : {
                 "link": "https://www.ebi.ac.uk/training/events/2018/introduction-multiomics-data-integration-0",
                 "text": "Introduction to multiomics data integration"
@@ -56,30 +57,30 @@
         },
 	     {
             "date": "2018-07-02",
-            "event": "Hackathon",
-            "place": "Wellcome Genome Campus, Hinxton, UK",
+            "event": "",
+            "place": "Wellcome Genome Campus, UK",
             "external" : {
-                "link": "https://www.ebi.ac.uk/training/events/2018/introduction-multiomics-data-integration-0",
-                "text": "Introduction to multiomics data integration"
+                "link": "https://coursesandconferences.wellcomegenomecampus.org/events/item.aspx?e=724",
+                "text": "Hackathon"
             }
         },
         {
 		"date": "2018-06-07",
-		"event": "Webinar",
-		"place": "EMBL-EBI, Hinxton, UK",
+		"event": "",
+		"place": "EMBL-EBI, UK",
 		"external": {
 			"link": "",
 			"text": ""
 		},
 		"materials": [{
 			"link": "https://youtu.be/g2NiBw0I7NE?t=1m2s",
-			"label": "Extracting gene-disease evidence from literature, genetics, genomics and more"
+			"label": "Recorded webinar"
 		}]
 	},
 	{
 		"date": "2018-12-06",
-		"event": "Interactive Workshop",
-		"place": "UCL, London, UK",
+		"event": "",
+		"place": "UCL, UK",
 		"external": {
 			"link": "",
 			"text": ""
@@ -91,11 +92,11 @@
 	},
         {
             "date": "2018-03-06",
-            "event": "Biogen, Webinar",
-            "place": "EMBL-EBI, Hinxton, UK",
+            "event": "",
+            "place": "EMBL-EBI, UK",
             "external" : {
                 "link": "",
-                "text": "CRISPR screens in Parkinson’s disease"
+                "text": "CRISPR screens in Open Targets"
             }
         },
 {
@@ -110,7 +111,7 @@
 
 {
             "date": "2018-03-12",
-            "event": "BioData West Hackathon",
+            "event": "",
             "place": " - San Francisco, US",
             "external" : {
                 "link": "https://github.com/opentargets/biodatawest_hackathon/wiki",
@@ -141,7 +142,7 @@
             "place": "EMBL-EBI, UK",
             "external" : {
                 "link": "https://www.ebi.ac.uk/training/events/2018/bioinformatics-discovery-1",
-                "text": "Bioinformatics for Discovery, 2-day course"
+                "text": "Bioinformatics for Discovery"
             }
         },
         {
@@ -149,8 +150,8 @@
             "event": "",
             "place": "University of Cambridge, UK",
             "external" : {
-                "link": "http://marstons.bio.cam.ac.uk/course-booking/?CourseID=OpenTargets%20workshop_bioinfo-opent_17.10.2016_1830221&CourseName=OpenTargets%20workshop&CourseDate=17.10.2016&CourseDuration=0.5&EventID=1830221",
-                "text": "book your place now"
+                "link": "https://training.csx.cam.ac.uk/bioinformatics/event/1830221",
+                "text": "Open Targets Platform workshop"
             },
             "materials": [
                 {
