@@ -34,11 +34,11 @@
 		"date": "2018-06-25",
 		"event": "",
 		     "duration": "P5D",
-		 "description": "Bioinformatics Summer School: Cancer proteomics data analysis and functional interpretation",
+		 "description": "Bioinformatics Summer School Project: Cancer proteomics data analysis and functional interpretation using Open Targets ",
 		"place": "EMBL-EBI, UK",
 		"external": {
 			"link": "https://www.ebi.ac.uk/training/events/2018/summer-school-bioinformatics-1",
-			"text": "Prioritise candidate proteins with the Open Targets Platform:"
+			"text": "Prioritise candidate proteins with Open Targets"
 		},
 		"materials": [{
 				"link": "",
@@ -62,7 +62,7 @@
 	     {
             "date": "2018-07-02",
 	"duration": "P2D",
-		 "description": "How can we predict opportunities to repurpose drugs to treat unmet patient need?",	     
+		 "description": "Our hackathon challenge is How can we predict opportunities to repurpose drugs to treat unmet patient need?",	     
             "event": "",
             "place": "Wellcome Genome Campus, UK",
             "external" : {
