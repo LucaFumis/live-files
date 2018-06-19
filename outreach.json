@@ -11,9 +11,10 @@
         },
 	    {
 		"date": "2018-10-18",
+		    "duration": "P1DT4H",
 	   	"event": "",
 	        "place": "San Diego, US",
-	        "duration": "P1DT4H",
+	        
 		"external": {
 			"link": "http://www.ashg.org/2018meeting/asp/soe/webroot/soe.shtml#?search=Open%20Targets",
 			"text": "Workshop at ASHG"
@@ -411,27 +412,7 @@
             "event": "",
             "place": "MRC Technology - Stevenage, UK"
          },
-        {
-            "date": "2018-10-18",
-            "event": "",
-            "place": "ASHG 2018 - San Diego, US (Interactive Invited Workshop)",
-            "external" : {
-                "link": "http://www.ashg.org/2018meeting/asp/soe/webroot/soe.shtml#?search=Open%20Targets",
-                "text": "Open Targets: Using Genetics and Functional Genomics to Identify and Prioritise Targets for New Medicines"
-            },
-            "materials": [
-                {
-                    "link": "",
-                    "label":""
-                },
-                {
-                    "link": "",
-                    "label": ""
-                }
-            ]
-        },
-        
-        {
+         {
             "date": "2018-06-12",
             "event": "",
             "place": "University of Cambridge - Cambridge, UK"
