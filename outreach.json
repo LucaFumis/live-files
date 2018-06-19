@@ -11,8 +11,8 @@
         },
 	    {
 		"date": "2018-10-18",
-		 "duration": "P1DT4H",
-		 "description": "Using genetics to find new drugs",
+		 "duration": "PDT1H30M",
+		 "description": "Using Genetics and Functional Genomics to Identify and Prioritise Targets for New Medicines",
 	   	"event": "",
 	        "place": "San Diego, US",
 	        
@@ -33,6 +33,8 @@
 	     {
 		"date": "2018-06-25",
 		"event": "",
+		     "duration": "P5D",
+		 "description": "Bioinformatics Summer School: Cancer proteomics data analysis and functional interpretation",
 		"place": "EMBL-EBI, UK",
 		"external": {
 			"link": "https://www.ebi.ac.uk/training/events/2018/summer-school-bioinformatics-1",
@@ -59,6 +61,8 @@
         },
 	     {
             "date": "2018-07-02",
+	"duration": "P2D",
+		 "description": "How can we predict opportunities to repurpose drugs to treat unmet patient need?",	     
             "event": "",
             "place": "Wellcome Genome Campus, UK",
             "external" : {
