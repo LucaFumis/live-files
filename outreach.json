@@ -3,7 +3,7 @@
         {
             "date": "2016-10-13",
             "event": "Open Day",
-            "place": "EMBL-EBI, UK",
+            "place": "EMBL-EBI, Hinxton, UK",
             "external" : {
                 "link": "http://marstons.bio.cam.ac.uk/course-booking/?CourseID=OpenTargets%20workshop_bioinfo-opent_17.10.2016_1830221&CourseName=OpenTargets%20workshop&CourseDate=17.10.2016&CourseDuration=0.5&EventID=1830221",
                 "text": "book your place"
@@ -30,7 +30,7 @@
         {
             "date": "2018-02-22",
             "event": "",
-            "place": "EMBL-EBI, UK",
+            "place": "EMBL-EBI, Hinxton, UK",
             "external" : {
                 "link": "https://www.ebi.ac.uk/training/events/2018/introduction-multiomics-data-integration-0",
                 "text": "Introduction to multiomics data integration"
@@ -39,7 +39,7 @@
 	     {
             "date": "2018-07-02",
             "event": "Hackathon",
-            "place": "Wellcome Genome Campus - Hinxton, UK",
+            "place": "Wellcome Genome Campus, Hinxton, UK",
             "external" : {
                 "link": "https://www.ebi.ac.uk/training/events/2018/introduction-multiomics-data-integration-0",
                 "text": "Introduction to multiomics data integration"
@@ -47,8 +47,8 @@
         },
         {
 		"date": "2018-06-07",
-		"event": "",
-		"place": "EMBL-EBI, Webinar",
+		"event": "Webinar",
+		"place": "EMBL-EBI, Hinxton, UK",
 		"external": {
 			"link": "",
 			"text": ""
@@ -60,8 +60,8 @@
 	},
         {
             "date": "2018-03-06",
-            "event": "",
-            "place": "Biogen, Webinar",
+            "event": "Biogen, Webinar",
+            "place": "EMBL-EBI, Hinxton, UK",
             "external" : {
                 "link": "",
                 "text": "CRISPR screens in Parkinson’s disease"
@@ -69,8 +69,8 @@
         },
 {
             "date": "2018-03-19",
-            "event": "",
-            "place": "Takeda - Boston, US",
+            "event": "Takeda Interactive Workshop",
+            "place": "Boston, US",
             "external" : {
                 "link": "",
                 "text": ""
@@ -79,17 +79,17 @@
 
 {
             "date": "2018-03-12",
-            "event": "",
-            "place": "BioData West - San Francisco, US",
+            "event": "BioData West Hackathon",
+            "place": " - San Francisco, US",
             "external" : {
-                "link": "http://www.terrapinn.com/conference/biodata-west/Pre-Conference-Workshop-Agenda.stm",
-                "text": "Datathon on Open Targets"
+                "link": "https://github.com/opentargets/biodatawest_hackathon/wiki",
+                "text": "Open Targets Hackathon Wiki"
             }
         },
 {
             "date": "2018-03-21",
-            "event": "",
-            "place": "Biogen - Boston, US",
+            "event": "Biogen Interactive Workshop",
+            "place": "Boston, US",
             "external" : {
                 "link": "",
                 "text": ""
@@ -97,8 +97,8 @@
         },
 {
             "date": "2018-03-16",
-            "event": "",
-            "place": "Takeda - San Diego, US",
+            "event": "Takeda Interactive Workshop",
+            "place": "San Diego, US",
             "external" : {
                 "link": "",
                 "text": ""
