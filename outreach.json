@@ -85,7 +85,9 @@
 	},
 	{
 		"date": "2018-12-06",
-		"event": "",
+		"duration": "P1DT4H",
+		 "description": "Open Targets: Integrating genetics and genomics for translational medicine",	     
+           	"event": "",
 		"place": "UCL, UK",
 		"external": {
 			"link": "",
