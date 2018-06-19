@@ -1,0 +1,565 @@
+{
+    "sessions": [
+        {
+            "date": "2016-10-13",
+            "event": "Open Day",
+            "place": "EMBL-EBI, Hinxton, UK",
+            "external" : {
+                "link": "http://marstons.bio.cam.ac.uk/course-booking/?CourseID=OpenTargets%20workshop_bioinfo-opent_17.10.2016_1830221&CourseName=OpenTargets%20workshop&CourseDate=17.10.2016&CourseDuration=0.5&EventID=1830221",
+                "text": "book your place"
+            }
+        },
+	    {
+		"date": "2018-10-18",
+		"event": "ASHG 2018 Interactive Invited Workshop",
+		"place": "San Diego, US",
+		"external": {
+			"link": "http://www.ashg.org/2018meeting/asp/soe/webroot/soe.shtml#?search=Open%20Targets",
+			"text": "Open Targets: Using Genetics and Functional Genomics to Identify and Prioritise Targets for New Medicines"
+		},
+		"materials": [{
+				"link": "",
+				"label": ""
+			},
+			{
+				"link": "",
+				"label": ""
+			}
+		]
+	},
+	     {
+		"date": "2018-06-25",
+		"event": "Summer School in Bioinformatics",
+		"place": "EMBL-EBI, Hinxton, UK",
+		"external": {
+			"link": "https://www.ebi.ac.uk/training/events/2018/summer-school-bioinformatics-1",
+			"text": "Proteomics (data analysis and functional interpretation)"
+		},
+		"materials": [{
+				"link": "",
+				"label": ""
+			},
+			{
+				"link": "",
+				"label": ""
+			}
+		]
+	},
+        {
+            "date": "2018-02-22",
+            "event": "",
+            "place": "EMBL-EBI, Hinxton, UK",
+            "external" : {
+                "link": "https://www.ebi.ac.uk/training/events/2018/introduction-multiomics-data-integration-0",
+                "text": "Introduction to multiomics data integration"
+            }
+        },
+	     {
+            "date": "2018-07-02",
+            "event": "Hackathon",
+            "place": "Wellcome Genome Campus, Hinxton, UK",
+            "external" : {
+                "link": "https://www.ebi.ac.uk/training/events/2018/introduction-multiomics-data-integration-0",
+                "text": "Introduction to multiomics data integration"
+            }
+        },
+        {
+		"date": "2018-06-07",
+		"event": "Webinar",
+		"place": "EMBL-EBI, Hinxton, UK",
+		"external": {
+			"link": "",
+			"text": ""
+		},
+		"materials": [{
+			"link": "https://youtu.be/g2NiBw0I7NE?t=1m2s",
+			"label": "Extracting gene-disease evidence from literature, genetics, genomics and more"
+		}]
+	},
+	{
+		"date": "2018-12-06",
+		"event": "Interactive Workshop",
+		"place": "UCL, London, UK",
+		"external": {
+			"link": "",
+			"text": ""
+		},
+		"materials": [{
+			"link": "",
+			"label": ""
+		}]
+	},
+        {
+            "date": "2018-03-06",
+            "event": "Biogen, Webinar",
+            "place": "EMBL-EBI, Hinxton, UK",
+            "external" : {
+                "link": "",
+                "text": "CRISPR screens in Parkinson’s disease"
+            }
+        },
+{
+            "date": "2018-03-19",
+            "event": "Takeda Interactive Workshop",
+            "place": "Boston, US",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+
+{
+            "date": "2018-03-12",
+            "event": "BioData West Hackathon",
+            "place": " - San Francisco, US",
+            "external" : {
+                "link": "https://github.com/opentargets/biodatawest_hackathon/wiki",
+                "text": "Open Targets Hackathon Wiki"
+            }
+        },
+{
+            "date": "2018-03-21",
+            "event": "Biogen Interactive Workshop",
+            "place": "Boston, US",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+{
+            "date": "2018-03-16",
+            "event": "Takeda Interactive Workshop",
+            "place": "San Diego, US",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+         {
+            "date": "2018-03-20",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "https://www.ebi.ac.uk/training/events/2018/bioinformatics-discovery-1",
+                "text": "Bioinformatics for Discovery, 2-day course"
+            }
+        },
+        {
+            "date": "2016-10-17",
+            "event": "",
+            "place": "University of Cambridge, UK",
+            "external" : {
+                "link": "http://marstons.bio.cam.ac.uk/course-booking/?CourseID=OpenTargets%20workshop_bioinfo-opent_17.10.2016_1830221&CourseName=OpenTargets%20workshop&CourseDate=17.10.2016&CourseDuration=0.5&EventID=1830221",
+                "text": "book your place now"
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/University_Cambridge_slides.pdf",
+                    "label": "slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/University_Cambridge_exercises.pdf",
+                    "label": "exercises"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/University_Cambridge_answers.pdf",
+                    "label":"answers"
+                }
+            ]
+        },
+        {
+            "date": "2016-11-22",
+            "event": "",
+            "place": "Cancer Research UK Manchester Institute, UK",
+            "external" : {
+                "link": "",
+                "text": "invitation only"
+        },
+        "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_manchester_slides.pdf",
+                    "label": "slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_manchester_exercises.pdf",
+                    "label": "exercises"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_manchester_answers.pdf",
+                    "label":"answers"
+                }
+            ]
+        },
+        {
+            "date": "2016-12-16",
+            "event": "",
+            "place": "Cancer Research UK Cambridge Institute, UK",
+            "external" : {
+                "link": "http://www.training.cam.ac.uk/bioinformatics/event/1963140",
+                "text": "Book now"
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_slides.pdf",
+                    "label": "slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_exercises.pdf",
+                    "label": "exercises"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/CRUK_cambridge_answers.pdf",
+                    "label":"answers"
+                }
+            ]
+
+        },
+        {
+            "date": "2017-02-06",
+            "event": "",
+            "place": "Washington DC, US",
+            "external" : {
+                "link": "http://www.slas2017.org/",
+                "text": "SLAS 2017"
+            },
+            "materials": [
+                {
+                    "link": "https://www.youtube.com/watch?v=Fc3li7Z_Bdg",
+                    "label":"recorded talk"
+                }
+            ]
+        },
+        {
+            "date": "2017-02-09",
+            "event": "",
+            "place": "Yale School of Medicine New Haven, US",
+            "external" : {
+                "link": "https://tools.medicine.yale.edu/calendar/",
+                "text": "Yale calendar"
+        },
+            "materials": [
+                {
+                    "link": "https://twitter.com/Yale/status/829738909663895553",
+                    "label":"cancelled due to winter storm Niko"
+                }
+            ]
+        },
+         {
+            "date": "2017-02-23",
+            "event": "",
+            "place": "Yale School of Medicine & friends Webinar",
+            "external" : {
+                "link": "",
+                "text": "Yale School of Medicine and colleagues in the east coast of the US"
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/slides.pdf",
+                    "label": "slides"
+                }
+            ]
+        },
+         {
+            "date": "2017-03-06",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "http://www.ebi.ac.uk/industry",
+                "text": "Industry programme, members only"
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/IndustryProgram_Mar2017.pdf",
+                    "label": "slides"
+                }
+            ]
+        },
+        {
+            "date": "2017-03-08",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "http://www.ebi.ac.uk/training/events/2017/introduction-omics-data-integration",
+                "text": "Introduction to Omics data integration"
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Omics_data_integration.pdf",
+                    "label":"slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Omics_data_integration_coursebook.pdf",
+                    "label": "exercises"
+                }
+            ]
+        },
+        {
+            "date": "2017-03-14",
+            "event": "",
+            "place": "Biogen Webinar",
+            "external" : {
+                "link": "",
+                "text": ""
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Biogen_presentation.pdf",
+                    "label":"slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Biogen_exercises.pdf",
+                    "label": "exercises"
+                }
+            ]
+        },
+      {
+            "date": "2017-03-16",
+            "event": "",
+            "place": "EMBL-EBI, UK",
+            "external" : {
+                "link": "http://www.ebi.ac.uk/training/events/2017/bioinformatics-discovery-0",
+                "text": "Bioinformatics for discovery"
+          },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/Day1_bio_discovery.pdf",
+                    "label":"slides day 1"
+                },
+                 {
+                    "link": "https://github.com/deniseOme/training/blob/master/Day2_bio_discovery.pdf",
+                    "label":"slides day 2"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/exercises.pdf",
+                    "label": "exercises"
+                }
+            ]
+        },
+         {
+            "date": "2017-04-03",
+            "event": "",
+            "place": "Alzheimer's Research UK, DDI Cambridge",
+             "external" : {
+                "link": "",
+                "text": ""
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/ARUK_presentation.pdf",
+                    "label":"slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/ARUK_coursebook.pdf",
+                    "label": "exercises"
+                }
+            ]
+        },
+         {
+            "date": "2017-04-06",
+            "event": "",
+            "place": "Universidad Icesi, Webinar",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+        {
+            "date": "2017-04-07",
+            "event": "",
+            "place": "Universidad Icesi, Webinar",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+        {
+            "date": "2017-04-26",
+            "event": "",
+            "place": "Synapse Connect UK, EMBL-EBI",
+            "external" : {
+                "link": "",
+                "text": ""
+            }
+        },
+        {
+            "date": "2017-05-10",
+            "event": "",
+            "place": "Drug Discovery Unit - University of Dundee, UK",
+            "external" : {
+                "link": "",
+                "text": ""
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/DDU_presentation.pdf",
+                    "label":"slides"
+                },
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/DDU_coursebook.pdf",
+                    "label": "exercises"
+                }
+            ]
+        },
+        {
+            "date": "2017-05-30",
+            "event": "",
+            "place": "Bristol-Myers Squibb, Webinar"
+         },
+         {
+            "date": "2017-06-08",
+            "event": "",
+            "place": "MRC Technology - Stevenage, UK"
+         },
+        {
+            "date": "2018-10-18",
+            "event": "",
+            "place": "ASHG 2018 - San Diego, US (Interactive Invited Workshop)",
+            "external" : {
+                "link": "http://www.ashg.org/2018meeting/asp/soe/webroot/soe.shtml#?search=Open%20Targets",
+                "text": "Open Targets: Using Genetics and Functional Genomics to Identify and Prioritise Targets for New Medicines"
+            },
+            "materials": [
+                {
+                    "link": "",
+                    "label":""
+                },
+                {
+                    "link": "",
+                    "label": ""
+                }
+            ]
+        },
+        
+        {
+            "date": "2018-06-12",
+            "event": "",
+            "place": "University of Cambridge - Cambridge, UK"
+        },
+                  {
+            "date": "2017-06-15",
+            "event": "",
+            "place": "Biogen, Webinar"
+         },
+        {
+            "date": "2017-06-27",
+            "event": "",
+            "place": "Summer School in Bioinformatics, EMBL-EBI",
+            "external" : {
+                "link": "http://www.ebi.ac.uk/training/events/2017/summer-school-bioinformatics-0",
+                "text": "Book now"
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/presentations/blob/master/Bioinf_Summer_School_17.pdf",
+                    "label": "slides"
+                }
+            ]
+
+        },
+         {
+            "date": "2017-07-07",
+            "event": "",
+            "place": "LEO Pharma, Webinar"
+            },
+        {
+            "date": "2017-07-18",
+            "event": "",
+            "place": "Perdana University, Malaysia",
+             "external" : {
+                "link": "",
+                "text": ""
+            },
+            "materials": [
+                {
+                    "link": "",
+                    "label":""
+                },
+                {
+                    "link": "",
+                    "label": ""
+                }
+            ]
+        },
+         {
+            "date": "2017-07-19",
+            "event": "",
+            "place": "Alzheimer's Research UK, DDI London",
+             "external" : {
+                "link": "",
+                "text": ""
+            },
+            "materials": [
+                {
+                    "link": "https://github.com/deniseOme/training/blob/master/ARUK_UCL_presentation.pdf",
+                    "label":"slides"
+                }
+            ]
+        },
+            {
+            "date": "2017-07-24",
+            "event": "",
+            "place": "Abbvie, Webinar"
+     },
+        {
+            "date": "2017-10-10",
+            "event": "",
+            "place": "EU project C-COMEND, Webinar"
+    },
+         {
+            "date": "2017-10-18",
+            "event": "",
+            "place": "EMBL-EBI Webinar Series",
+            "external" : {
+                "link": "",
+                "text": ""
+                 },
+            "materials": [
+                {
+                    "link": "https://www.youtube.com/watch?v=vH2-8B7JqXE",
+                    "label": "Open Targets: target and disease associations for drug discovery"
+                }
+            ]
+        },
+         {
+            "date": "2017-10-19",
+            "event": "",
+            "place": "Certara, Webinar"
+    },
+         {
+            "date": "2017-11-30",
+            "event": "",
+            "place": "Biogen, Webinar",
+            "external" : {
+                "link": "",
+                "text": "Organoids in Open Targets: pre-clinical models for drug discovery"
+            }
+        },
+         {
+            "date": "2017-12-05",
+            "event": "",
+            "place": "University College London, Webinar"
+},
+         {
+            "date": "2017-12-05",
+            "event": "",
+            "place": "EMBL-EBI, Webinar",
+            "external" : {
+                "link": "",
+                "text": ""
+    },
+        "materials": [
+                {
+                    "link": "https://www.youtube.com/watch?v=KQbfhwpeEvc",
+                    "label":"Take a REST with the Open Targets API"
+                }
+            ]
+        },
+        {
+            "date": "2017-10-23",
+            "event": "",
+            "place": "Alzheimer's Research UK, DDI Oxford"
+    }
+    ],
+    "Get started with the Open Targets Platform": "https://github.com/opentargets/outreach/blob/master/OpenTargets_Platform_GettingStarted.pdf",
+    "Explore the Platform": "http://imgur.com/a/LKDhp"
+    }
