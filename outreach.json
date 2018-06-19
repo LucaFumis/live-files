@@ -62,7 +62,7 @@
 	     {
             "date": "2018-07-02",
 	"duration": "P2D",
-		 "description": "Our hackathon challenge is How can we predict opportunities to repurpose drugs to treat unmet patient need?",	     
+		 "description": "How can we predict opportunities to repurpose drugs to treat unmet patient need? That's what we will find out with our Open Targets challenge at this hackathon",	     
             "event": "",
             "place": "Wellcome Genome Campus, UK",
             "external" : {
@@ -84,14 +84,14 @@
 		}]
 	},
 	{
-		"date": "2018-12-06",
+		"date": "2018-12-04",
 		"duration": "P1DT4H",
 		 "description": "Open Targets: Integrating genetics and genomics for translational medicine",	     
            	"event": "",
 		"place": "UCL, UK",
 		"external": {
 			"link": "",
-			"text": ""
+			"text": "Open Targets for UCL Master's course"
 		},
 		"materials": [{
 			"link": "",
