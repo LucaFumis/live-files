@@ -36,6 +36,15 @@
                 "text": "Introduction to multiomics data integration"
             }
         },
+	     {
+            "date": "2018-07-02",
+            "event": "Hackathon",
+            "place": "Wellcome Genome Campus - Hinxton, UK",
+            "external" : {
+                "link": "https://www.ebi.ac.uk/training/events/2018/introduction-multiomics-data-integration-0",
+                "text": "Introduction to multiomics data integration"
+            }
+        },
         {
 		"date": "2018-06-07",
 		"event": "",
