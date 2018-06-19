@@ -11,8 +11,8 @@
         },
 	    {
 		"date": "2018-10-18",
-		"event": "",
-		"place": "ASHG 2018 - San Diego, US (Interactive Invited Workshop)",
+		"event": "ASHG 2018 Interactive Invited Workshop",
+		"place": "San Diego, US",
 		"external": {
 			"link": "http://www.ashg.org/2018meeting/asp/soe/webroot/soe.shtml#?search=Open%20Targets",
 			"text": "Open Targets: Using Genetics and Functional Genomics to Identify and Prioritise Targets for New Medicines"
