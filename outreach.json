@@ -29,16 +29,123 @@
 				"label": ""
 			}
 		]
+	    },
+	    	{
+		"date": "2018-06-27",
+		 "duration": "PDT1H",
+		 "description": "The Open Targets Consortium and its Platform for Drug Identification",
+	   	"event": "",
+	        "place": "Penang, MY",
+	        
+		"external": {
+			"link": "",
+			"text": ""
+		},
+		"materials": [{
+				"link": "",
+				"label": ""
+			},
+			{
+				"link": "",
+				"label": ""
+			}
+		]
+	},
+	    {
+		"date": "2018-07-02",
+		 "duration": "PDT1H",
+		 "description": "Using the Open Targets Platform for Drug Identification in Oncology",
+	   	"event": "",
+	        "place": "Subang Jaya, MY",
+	        
+		"external": {
+			"link": "",
+			"text": ""
+		},
+		"materials": [{
+				"link": "",
+				"label": ""
+			},
+			{
+				"link": "",
+				"label": ""
+			}
+		]
+	},
+	    
+	    {
+		"date": "2018-07-02",
+		 "duration": "PDT1H",
+		 "description": "Open Targets: Integrating Genetics and Functional Biology Data to Identify and Prioritise Gene Targets for Various Diseases",
+	   	"event": "",
+	        "place": "Perdana, MY",
+	        
+		"external": {
+			"link": "http://www.perdanauniversity.edu.my/event/open-targets-integrating-genetics-and-functional-biology-data-to-identify-and-prioritise-gene-targets-for-various-diseases/",
+			"text": "Event page"
+		},
+		"materials": [{
+				"link": "",
+				"label": ""
+			},
+			{
+				"link": "",
+				"label": ""
+			}
+		]
+	},
+	    
+	    {
+		"date": "2018-07-03",
+		 "duration": "PDT1H",
+		 "description": "How to Identify and Prioritise New Therapeutic Targets with Open Targets",
+	   	"event": "",
+	        "place": "Subang Jaya, MY",
+	        
+		"external": {
+			"link": "",
+			"text": ""
+		},
+		"materials": [{
+				"link": "",
+				"label": ""
+			},
+			{
+				"link": "",
+				"label": ""
+			}
+		]
+	},  
+	    {
+		"date": "2018-07-04",
+		 "duration": "PDT1H",
+		 "description": "Transforming drug discovery through the systematic identification and prioritisation of targets",
+	   	"event": "",
+	        "place": "Kuala Lumpur, MY",
+	        
+		"external": {
+			"link": "",
+			"text": ""
+		},
+		"materials": [{
+				"link": "",
+				"label": ""
+			},
+			{
+				"link": "",
+				"label": ""
+			}
+		]
 	},
 	     {
-		"date": "2018-06-25",
+		"date": "2018-06-27, 28, 29",
 		"event": "",
-		     "duration": "P5D",
+		     "duration": "P3D",
 		 "description": "Bioinformatics Summer School Project: Cancer proteomics data analysis and functional interpretation using Open Targets ",
 		"place": "EMBL-EBI, UK",
 		"external": {
 			"link": "https://www.ebi.ac.uk/training/events/2018/summer-school-bioinformatics-1",
-			"text": "Prioritise candidate proteins with Open Targets"
+			"text": "Group Projects on Proteomics (data analysis and functional interpretation)"
 		},
 		"materials": [{
 				"link": "",
@@ -61,8 +168,8 @@
         },
 	     {
             "date": "2018-07-02",
-	"duration": "P2D",
-		 "description": "How can we predict opportunities to repurpose drugs to treat unmet patient need? That's what we will find out with our Open Targets challenge at this hackathon",	     
+	    "duration": "P2D",
+            "description": "How can we predict opportunities to repurpose drugs to treat unmet patient need? That's what we will find out with our Open Targets challenge at this hackathon",	     
             "event": "",
             "place": "Wellcome Genome Campus, UK",
             "external" : {
@@ -86,7 +193,7 @@
 	{
 		"date": "2018-12-04",
 		"duration": "P1DT4H",
-		 "description": "Open Targets: Integrating genetics and genomics for translational medicine",	     
+		"description": "Open Targets: Integrating genetics and genomics for translational medicine",	     
            	"event": "",
 		"place": "UCL, UK",
 		"external": {
